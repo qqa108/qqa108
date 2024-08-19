@@ -1,24 +1,9 @@
-## Hi there 👋
-
-<!--
-**qqa108/qqa108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 최용훈입니다 👋
 ![shark](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=140)
 
 <div align=center>
 	
-### I'm KyungWon Jung 👋 
+### Choi YongHun 👋 
 
 </div><br>
 
