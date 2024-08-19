@@ -17,3 +17,8 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?qqa108=anuraghazra&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?qqa108=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com) 
+
+<img src="https://img.shields.io/badge/표시할_텍스트-색상코드?style=flat-square&logo=simpleicons_로고_이름&logoColor=white"/>
