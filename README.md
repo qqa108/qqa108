@@ -84,13 +84,13 @@ Here are some ideas to get you started:
 <div align=center>
 	<br>
 	
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kw99j10&layout=compact&bg_color=31,f7cac9,92a8d1&title_color=fff&text_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qqa108&layout=compact&bg_color=31,f7cac9,92a8d1&title_color=fff&text_color=fff)
 
 </div>
 
 <div align=center>
 	<br>
 	
-![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=kw99j10&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=qqa108&show_icons=true&theme=dracula)
 
 </div>
