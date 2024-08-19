@@ -56,4 +56,6 @@
 	
 ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=qqa108&show_icons=true&theme=dracula)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qqa108)](https://solved.ac/qqa108)
+
 </div>
