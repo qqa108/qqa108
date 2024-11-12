@@ -39,8 +39,7 @@
 
 <div align=center>
 	<h4>Algorithm</h4>
-	<br>
-	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qqa108)](https://solved.ac/qqa108)
-
+</div>
+<div align=center>
+	[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qqa108)](https://solved.ac/qqa108)
 </div>
