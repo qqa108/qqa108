@@ -30,6 +30,8 @@
 	<img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white">
 	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	<img src="https://img.shields.io/badge/Jira Software-0052CC?style=flat&logo=Jira Software&logoColor=white" />
+
+ <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div>
 <br>
 <div align=center>
