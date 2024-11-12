@@ -18,7 +18,7 @@
 	<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
 	<img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-adge&logo=elasticsearch&logoColor=white" />
 	<img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
-	<img src="" />
+	<img src="https://img.shields.io/badge/rㅇㅇㅇㅇㅇ-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
 	<img src="" />
 </div>
 
