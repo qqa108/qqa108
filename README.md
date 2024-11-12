@@ -1,10 +1,8 @@
-## 최용훈입니다 👋
+## 👋
 ![shark](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=140)
 
 <div align=center>
 	
-### Choi YongHun 👋 
-
 </div><br>
 
 <div align=center>
