@@ -32,10 +32,6 @@
 	<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </div>
 <br>
-<div align=center>
-<br><br><br>
-
-</div>
 
 <div align=center>
 	<h4>Algorithm</h4>
