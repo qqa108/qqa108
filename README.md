@@ -11,10 +11,15 @@
 	<h4>Technologies in use</h4>
 </div>
 <div align="center">
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white" />
-	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
- 	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" />
-	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+	<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+	<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+	<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white" />
+	<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+	<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+	<img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-adge&logo=elasticsearch&logoColor=white" />
+	<img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
+	<img src="" />
+	<img src="" />
 </div>
 
 <br>
@@ -22,16 +27,10 @@
 	<h4>Support Tools</h4>
 </div>
 <div align=center>
-	<img src="https://img.shields.io/badge/IntelliJ %20IDEA-2C2255?style=flat&logo=IntelliJ IDEA&logoColor=white" />
-	<img src="https://img.shields.io/badge/Eclipse Ide-2C2255?style=flat&logo=eclipseide&logoColor=white" /><br>
-	<img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
-	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-	<img src="https://img.shields.io/badge/gitlab-FC6D26?style=flat&logo=gitlab&logoColor=white"><br>
-	<img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white">
-	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-	<img src="https://img.shields.io/badge/Jira Software-0052CC?style=flat&logo=Jira Software&logoColor=white" />
-
- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+	<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+	<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
+	<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+	<img src="" />
 </div>
 <br>
 <div align=center>
